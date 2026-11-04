@@ -135,6 +135,18 @@ npm start
 
 The actual commands depend on the scripts configured in each `package.json`.
 
+### Vercel Deployment
+
+Deploy the `frontend` directory as a Vite project in Vercel. Set this environment
+variable in the Vercel project settings to the public URL of your deployed backend:
+
+```text
+VITE_API_BASE_URL=https://your-backend-url.example.com
+```
+
+Redeploy after adding or changing the variable. Local development uses
+`http://localhost:5000` automatically when this variable is not set.
+
 ## Documentation
 
 - Software Requirements Specification (SRS)
