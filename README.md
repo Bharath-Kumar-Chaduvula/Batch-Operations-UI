@@ -1,3 +1,5 @@
+![Batch Operations UI](docs/batch-operations-ui.png)
+
 # Batch Operations UI
 
 A web-based Batch Operations Management System designed to manage training batches across different training centres.
