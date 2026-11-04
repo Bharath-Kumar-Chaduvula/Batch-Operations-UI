@@ -1,3 +1,5 @@
+[![Repository Views](https://komarev.com/ghpvc/?username=Bharath-Kumar-Chaduvula&repo=Batch-Operations-UI&label=Repository%20views&color=0e75b6&style=flat)](https://github.com/Bharath-Kumar-Chaduvula/Batch-Operations-UI)
+
 # Batch Operations UI
 
 A web-based Batch Operations Management System designed to manage training batches across different training centres.
