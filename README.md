@@ -1,4 +1,5 @@
 ![Batch Operations UI](docs/batch-operations-ui.png)
+[![Repository Views](https://komarev.com/ghpvc/?username=Bharath-Kumar-Chaduvula&repo=Batch-Operations-UI&label=Repository%20views&color=0e75b6&style=flat)](https://github.com/Bharath-Kumar-Chaduvula/Batch-Operations-UI)
 
 # Batch Operations UI
 
