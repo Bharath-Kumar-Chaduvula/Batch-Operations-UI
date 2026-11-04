@@ -19,14 +19,10 @@ The application provides an interface for creating, viewing, searching, filterin
 
 ## Key Features
 
-- Batch creation and management.
 - Batch search functionality.
 - Filter batches by status and centre.
-- Sort batch records.
 - Pagination for batch records.
 - Enrolment capacity monitoring.
-- Dashboard statistics.
-- Form validation during batch creation.
 
 ## Technology Stack
 
@@ -119,12 +115,6 @@ Responsible for handling application logic and data operations.
 
 ```bash
 git clone <repository-url>
-```
-
-### Navigate to the Project Directory
-
-```bash
-cd project
 ```
 
 ### Frontend
