@@ -1,0 +1,31 @@
+# Normalize line endings for the entire repository.
+# All text files are stored with LF in Git and
+# checked out with the platform default (CRLF on Windows, LF elsewhere).
+
+* text=auto eol=lf
+
+# Force LF for files that must stay LF everywhere (CI, shell scripts, YAML).
+*.yml  text eol=lf
+*.yaml text eol=lf
+*.sh   text eol=lf
+
+# Web source files — LF everywhere.
+*.js   text eol=lf
+*.jsx  text eol=lf
+*.ts   text eol=lf
+*.tsx  text eol=lf
+*.css  text eol=lf
+*.html text eol=lf
+*.json text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
+
+# Binary files — no EOL conversion.
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.ico  binary
+*.woff binary
+*.woff2 binary
+*.ttf  binary
+*.eot  binary
