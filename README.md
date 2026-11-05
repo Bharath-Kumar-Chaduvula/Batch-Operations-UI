@@ -149,7 +149,7 @@ Redeploy after adding or changing the variable. Local development uses
 
 ## Documentation
 
-- Software Requirements Specification (SRS)
+- [Software Requirements Specification (SRS)](docs/software-requirements-specification.md)
 
 ## Future Enhancements
 
